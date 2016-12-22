@@ -1,0 +1,30 @@
+{
+  "name": "react-isomorphic",
+  "version": "0.0.0",
+  "description": "基于 Koa + React 的前后端同构项目样板 Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantao/react-isomorphic.git"
+  },
+  "keywords": [
+    "Koa",
+    "React",
+    "同构",
+    "Isomorphic"
+  ],
+  "author": "潘韬 <54778899@qq.com> (http://onmr.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pantao/react-isomorphic/issues"
+  },
+  "homepage": "https://github.com/pantao/react-isomorphic#readme",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "react": "^15.4.1",
+    "react-router": "^3.0.0"
+  }
+}
